@@ -1,6 +1,9 @@
 ## Amazon Trendforest
 Created by Jose Claramonte and Ricardo Vidal Lynch
 
+Created for the Data module of the Industrial Design Engineering Master during January 2025. 
+Professor Alba Garcia Corral.
+
 This is a DataViz showing products purchased during september 2023.
 All data was processed using Python and Pandas. Visualization made with
 Processing and Adobe Illustrator.
@@ -12,7 +15,6 @@ database at: https://drive.google.com/file/d/1VMUev3bQAcx1pBEvtsAxUbJJT7mFuAA9/v
 Database obtained from Kaggle, work in Python based on:
 - Aaron Frias's dataset from kaggle.
     - https://www.kaggle.com/datasets/aaronfriasr/amazon-products-dataset/code
-
 
 Processing code based on:
 - Branches are based on 'Cherry Blossom Tree' by Jponcemath on https://openprocessing.org/sketch/441998
